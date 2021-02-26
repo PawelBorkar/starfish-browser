@@ -12,4 +12,7 @@ Python
 
 # License
 
-[AGPL-3.0 License](LICENSE)
+[AGPL-3.0 License](LICENSE) 
+
+<br>
+ Copyright (C) 2021  Pawel Borkar
